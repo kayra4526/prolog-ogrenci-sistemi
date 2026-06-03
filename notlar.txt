@@ -1,0 +1,6 @@
+gokcen - Vize: 85 Final: 90
+omer - Vize: 40 Final: 50
+carlos - Vize: 55 Final: 93
+carlos - Ders: database | Vize: 68 Final: 83
+lando - Ders: database | Vize: 72 Final: 96
+carlos - Ders: database | Vize: 70 Final: 69 | Ort: 69.4 -> [CC]
